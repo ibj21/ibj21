@@ -1,7 +1,7 @@
 <h1 align="center">hi, I'm ishita</h1>
 <h3 align="center">nineteen - infj - aquarius</h3>
 
-- 🌱 I’m currently learning **javascript, c++**
+- 🌱 I’m currently learning ****
 
 - 📫 How to reach me **ishita.banerjee2005@gmail.com**
 
