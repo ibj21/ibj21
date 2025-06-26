@@ -1,8 +1,6 @@
 <h1 align="center">hi, I'm ishita</h1>
 <h3 align="center">twenty - infj - aquarius</h3>
 
-- 🌱 I’m currently learning **BackEnd Web Development**
-
 - 📫 How to reach me **ishita.banerjee2005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
